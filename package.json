@@ -1,0 +1,16 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "Learning Node Js Backend Stuff",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Armando Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
